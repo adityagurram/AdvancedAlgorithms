@@ -1,0 +1,5 @@
+c:\users\adityagurram\documents\visual studio 2017\Projects\C Miller\C Miller\bin\Debug\C Miller.exe.config
+c:\users\adityagurram\documents\visual studio 2017\Projects\C Miller\C Miller\bin\Debug\C Miller.exe
+c:\users\adityagurram\documents\visual studio 2017\Projects\C Miller\C Miller\bin\Debug\C Miller.pdb
+c:\users\adityagurram\documents\visual studio 2017\Projects\C Miller\C Miller\obj\Debug\C Miller.exe
+c:\users\adityagurram\documents\visual studio 2017\Projects\C Miller\C Miller\obj\Debug\C Miller.pdb
